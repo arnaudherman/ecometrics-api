@@ -153,7 +153,7 @@ Le projet inclut des scripts pour faciliter les tests :
 
 ---
 
-## 🎮 Utilisation
+## 💻 Utilisation
 
 ### 1. Créer un compte
 
@@ -248,7 +248,7 @@ curl -X POST http://localhost:8000/api/applications/1/issue-certificate \
 
 ---
 
-## � Screenshots
+## 📸 Screenshots
 
 Exemples d'utilisation avec Thunder Client :
 
@@ -269,7 +269,7 @@ Exemples d'utilisation avec Thunder Client :
 
 ---
 
-## �📍 API Endpoints
+## 📍 API Endpoints
 
 ### Authentication
 
